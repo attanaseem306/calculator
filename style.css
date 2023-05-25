@@ -1,0 +1,171 @@
+body {
+    background-color: rgb(171, 170, 168);
+}
+
+.main {
+
+
+
+    width: 330px;
+    height: 435px;
+    background-color: black;
+    border-radius: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    margin-top: 100px;
+    box-shadow: 20px 20px 40px #181818;
+
+
+}
+
+.in {
+    margin: auto;
+    display: flex;
+    width: 250px;
+    height: 30px;
+    border-radius: 8px;
+    box-shadow: 4px 4px 4px #8d8a8a;
+    text-align: end;
+    font-size: 30px;
+}
+
+.main2 {
+    justify-content: center;
+    align-items: center;
+    /* display: flex; */
+    margin-top: 30px;
+
+}
+.first{
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    display: flex;
+    
+    
+}
+.second{
+    justify-content: center;
+    align-items: center;
+    margin-top: 6px;
+    display: flex;
+    
+    
+}
+.third{
+    justify-content: center;
+    align-items: center;
+    margin-top: 6px;
+    display: flex;
+    
+    
+}
+.fourth{
+    justify-content: center;
+    align-items: center;
+    margin-top: 6px;
+    display: flex;
+    
+    
+}
+.fifth{
+    justify-content: center;
+    align-items: center;
+    margin-top: 6px;
+    display: flex;
+    
+   
+}
+
+button {
+    width: 55px;
+    height: 50px;
+    font-size: 20px;
+    margin: 5px;
+    border-radius: 50px 50px 50px;
+    box-shadow: 3px 3px 3px #8d8a8a;
+
+}
+
+
+button:hover {
+    background-color: rgb(45, 236, 220);
+
+    /* font-size: 30px; */
+    transform: scale(1.2);
+
+}
+
+.in:hover {
+    background-color: rgba(87, 245, 100, 0.199);
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: rgba(237, 95, 230, 0.637);
+}
+
+.new {
+    background-color: rgb(226, 171, 44);
+}
+
+.star {
+    font-size: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{ 
+    background-color: gainsboro;
+}
+.main{
+    
+    text-align: center;
+    border: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 1px;
+    width: 280px;
+    height: 500px;
+    margin: auto;
+    margin-top: 70px;
+    background-color: rgb(255, 254, 254);
+    border-radius: 12px;
+}
+.main2{
+    margin-left: 20px;
+    
+  
+   
+    
+
+}
+
+
+button{
+    width: 50px;
+    height: 60px;
+    margin: 3px;
+    border-radius: 7px;
+    outline: none;
+    border: none;
+    font-size: 20px;
+}
+.inpu{
+    width: 220px;
+    height: 30px;
+    margin-top: 20px;
+} */
